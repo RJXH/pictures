@@ -1,3 +1,3 @@
 # pictures
 
-Markdown图库
+Markdown图床
